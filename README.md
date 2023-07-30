@@ -19,8 +19,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/vaishunall/iOSPrework/assets/72366072/073c22c1-f554-42cd-b449-06350f50782a' title='Video Walkthrough' width='40%' alt='Video Walkthrough' />
 
-To view the imgur GIF, click [here](https://i.imgur.com/noVHJGS.gif)
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
