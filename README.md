@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/vaishunall/iOSPrework/assets/72366072/073c22c1-f554-42cd-b449-06350f50782a' title='Video Walkthrough' width='40%' alt='Video Walkthrough' />
+<img src='https://github.com/vaishunall/iOSPrework/assets/72366072/d3785324-7e6d-4c18-b1c5-576943cc6b3c' title='Video Walkthrough' width='40%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
@@ -50,10 +50,9 @@ Through social media, peers, and my personal experience, I've noticed that commi
 ## Notes
 
 Describe any challenges encountered while building the app.
-It took me a while to understand the storyboard and the drag-and-drop features for UI elements and use the assistant for IBAction, but once I did so, I was able to use it with ease.
+It took me a while to understand the storyboard, the drag-and-drop features for UI elements, and the assistant for IBAction, but once I did so, I was able to use it with ease.
 
 Changes I've made to the app:
 - Changed the font family and size
 - Added a view behind the text to make sure there the text is clearly visible regardless of the background color
-- Changed the background colors to more red/pink/purple colors by changing the RGB value (set red to always be one) so the background would better match the button
 - Added rounded corners to the view and the button
