@@ -1,4 +1,3 @@
-# iOSPrework
 # Prework - *iOS101-Prework*
 
 Submitted by: **Vyshnavi Nalla**
@@ -18,7 +17,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/noVHJGS.gif' title='Video Walkthrough' width='40%' alt='Video Walkthrough' />
+<img src='https://github.com/vaishunall/iOSPrework/assets/72366072/073c22c1-f554-42cd-b449-06350f50782a' title='Video Walkthrough' width='40%' alt='Video Walkthrough' />
+
+To view the imgur GIF, click [here](https://i.imgur.com/noVHJGS.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
@@ -29,22 +30,32 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
 
+Favorite Apps + Features:
+
+Instagram
+- The "Explore" page with suggested posts/videos
+- The Story feature
+  
+BeReal
+- The "Your Memories" screen
+- Reacting to posts with a personalized emoji
+- Being able to comment on posts
+  
+Pinterest
+- The collage-like layout of the home page
+- The boards feature for saved posts
+
+App Idea: Skincare Reminder App.
+
+Through social media, peers, and my personal experience, I've noticed that commitment people are making to their skincare regimen. However, it can be hard to remember which days to use a certain product or to do your skincare in the first place. This app would have a weekly schedule feature in which users can enter the products they use in their day and night routine for each day. The user can also set times to when they usually do their routine, and the app will send notifications at those times reminding the user to do their skincare. I'd also like to implement some kind of reward feature to encourage the users, for example, a plant that grows as the users regularly do their routine or a "streak" that shows how many days a user has successfully completed their routine without skipping.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+It took me a while to understand the storyboard and the drag-and-drop features for UI elements and use the assistant for IBAction, but once I did so, I was able to use it with ease.
 
-## License
-
-    Copyright 2023 Vyshnavi Nalla
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+Changes I've made to the app:
+- Changed the font family and size
+- Added a view behind the text to make sure there the text is clearly visible regardless of the background color
+- Changed the background colors to more red/pink/purple colors by changing the RGB value (set red to always be one) so the background would better match the button
+- Added rounded corners to the view and the button
